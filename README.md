@@ -1,4 +1,4 @@
-# Oi, eu sou a Aline Silva de Souza 👋
+# Oi, eu sou a Aline Souza 👋
 > Transição de carreira → Análise de Dados
 
 Estou em transição de carreira para a área de dados, aprendendo ferramentas amplamente usadas no mercado e construindo projetos práticos para consolidar o aprendizado.
