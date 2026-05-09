@@ -18,7 +18,7 @@ Estou em transição de carreira para a área de dados, aprendendo ferramentas a
 
 | Repositório | Descrição |
 |---|---|
-| [estudo-excel](./estudo-excel) | Planilhas e exercícios com Excel para análise de dados |
+| [estudos-excel](.estudo-excel) | Planilhas e exercícios com Excel para análise de dados |
 | [estudos-sql](./estudos-sql) | Queries, consultas e projetos com SQL |
 | [estudos-python](./estudos-python) | Scripts e notebooks para análise de dados com Python |
 | [estudos-powerbi](./estudos-powerbi) | Dashboards e relatórios criados no Power BI |
