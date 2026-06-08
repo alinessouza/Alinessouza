@@ -21,7 +21,7 @@ Estou em transição de carreira para a área de dados, aprendendo ferramentas a
 | [estudos-excel](https://github.com/alinessouza/estudo-excel)| Planilhas e exercícios com Excel para análise de dados |
 | [estudos-sql](./estudos-sql) | Queries, consultas e projetos com SQL |
 | [estudos-python](./estudos-python) | Scripts e notebooks para análise de dados com Python |
-| [estudos-powerbi]([./estudos-powerbi](https://github.com/alinessouza/estudos-powerbi)) | Dashboards e relatórios criados no Power BI |
+| [estudos-powerbi](https://github.com/alinessouza/estudos-powerbi)) | Dashboards e relatórios criados no Power BI |
 
 ---
 
